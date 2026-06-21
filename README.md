@@ -207,7 +207,7 @@ The demo uses the Champion Exit scenario (Maverick Retail Group) as the primary 
 | File | Description |
 |---|---|
 | `ridgehold_demo_v2.gif` | Demo GIF showing the full product loop |
-| `Ridgehold_Pitch_Deck.pptx` | Pitch deck presented at AIBoomi Startup Weekend |
+| `Ridgehold_Pitch_Deck.pdf` | Pitch deck presented at AIBoomi Startup Weekend |
 | `Ridgehold_AI_Impact_Statement.docx` | AI Impact Statement covering models, data provenance, guardrails, and expected outcomes |
 
 ---
